@@ -4,7 +4,7 @@ export default function Events() {
   return (
     <>
       {/* Carnival event */}
-      <div className="flex scroll-mt-6 flex-col  items-center bg-[url('/assets/carnival.webp')] bg-cover bg-no-repeat h-140 md:h-340 lg:h-640">
+      {/* <div className="flex scroll-mt-6 flex-col  items-center bg-[url('/assets/carnival.webp')] bg-cover bg-no-repeat h-140 md:h-340 lg:h-640">
         <div className="flex flex-col items-center rounded-2xl lg:py-12 lg:px-20 px-6 py-6 md:mt-20  mt-20">
           <h2 className="text-[#8c1034] font-cormorant-upright font-semibold  text-[50px] md:text-5xl lg:text-[70px]">
             Carnival
@@ -28,10 +28,10 @@ export default function Events() {
             See the route
           </a>
         </div>
-      </div>
+      </div> */}
 
       {/* Ring Ceremony event */}
-      <div className="flex scroll-mt-6 flex-col  items-center bg-[url('/assets/ring.webp')] bg-cover bg-no-repeat h-170 md:h-340 lg:h-640">
+      {/* <div className="flex scroll-mt-6 flex-col  items-center bg-[url('/assets/ring.webp')] bg-cover bg-no-repeat h-170 md:h-340 lg:h-640">
         <div className="flex flex-col items-center rounded-2xl lg:py-12 lg:px-20 px-6 py-6 md:mt-20  mt-30">
           <h2 className="text-[#8c1034] font-cormorant-upright font-semibold  text-[45px] md:text-5xl lg:text-[70px]">
             Ring Ceremony
@@ -55,10 +55,10 @@ export default function Events() {
             See the route
           </a>
         </div>
-      </div>
+      </div> */}
 
       {/* Sangeet event */}
-      <div className="flex scroll-mt-6 flex-col  items-center bg-[url('/assets/sangeet.webp')] bg-cover bg-no-repeat h-170 md:h-340 lg:h-640">
+      {/* <div className="flex scroll-mt-6 flex-col  items-center bg-[url('/assets/sangeet.webp')] bg-cover bg-no-repeat h-170 md:h-340 lg:h-640">
         <div className="flex flex-col items-center rounded-2xl lg:py-12 lg:px-20 px-6 py-6 md:mt-20  mt-26">
           <h2 className="text-[#8c1034] font-cormorant-upright font-semibold  text-[45px] md:text-5xl lg:text-[70px]">
             Ladies Sangeet
@@ -82,10 +82,10 @@ export default function Events() {
             See the route
           </a>
         </div>
-      </div>
+      </div> */}
 
       {/* Ghur Chadi event */}
-      <div className="flex scroll-mt-6 flex-col  items-center bg-[url('/assets/ghurchadi.webp')] bg-cover bg-no-repeat h-170 md:h-340 lg:h-640">
+      {/* <div className="flex scroll-mt-6 flex-col  items-center bg-[url('/assets/ghurchadi.webp')] bg-cover bg-no-repeat h-170 md:h-340 lg:h-640">
         <div className="flex flex-col items-center rounded-2xl lg:py-12 lg:px-20 px-6 py-6 md:mt-20  mt-30">
           <h2 className="text-[#8c1034] font-cormorant-upright font-semibold  text-[45px] md:text-5xl lg:text-[70px]">
             Ghurchadi
@@ -107,10 +107,10 @@ export default function Events() {
             See the route
           </a>
         </div>
-      </div>
+      </div> */}
 
       {/* Pheras event */}
-      <div className="flex scroll-mt-6 flex-col  items-center bg-[url('/assets/phere.webp')] bg-cover bg-no-repeat h-170 md:h-340 lg:h-640">
+      {/* <div className="flex scroll-mt-6 flex-col  items-center bg-[url('/assets/phere.webp')] bg-cover bg-no-repeat h-170 md:h-340 lg:h-640">
         <div className="flex flex-col items-center rounded-2xl lg:py-12 lg:px-20 px-6 py-6 md:mt-20  mt-24">
           <h2 className="text-[#8c1034] font-cormorant-upright font-semibold  text-[45px] md:text-5xl lg:text-[70px]">
             Pheras
@@ -134,7 +134,7 @@ export default function Events() {
             See the route
           </a>
         </div>
-      </div>
+      </div> */}
 
       {/* Reception event */}
       <div className="flex scroll-mt-6 flex-col  items-center bg-[url('/assets/reception.webp')] bg-cover bg-no-repeat h-170 md:h-340 lg:h-640">

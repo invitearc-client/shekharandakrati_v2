@@ -59,7 +59,7 @@ export default function Families() {
         </h2>
 
         <p className="text-center text-[18px] tracking-medium text-[#C99333] font-cormorant-garamond md:text-2xl font-semibold">
-          Ayati, Gauri, Akshat, Ananya, Devansh, Cherry, Harshul, Aarvi, Pavni,
+          Ayati, Gauri, Akshat, Ananya, Devansh, Cherry, Harshul, Aarvi, Pavani,
           Adyant
         </p>
         <div className="flex flex-col justify-center items-center mt-8">

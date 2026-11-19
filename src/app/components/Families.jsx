@@ -10,12 +10,12 @@ export default function Families() {
         </h2>
 
         <p className="text-center text-[18px] tracking-medium text-[#C99333] font-cormorant-garamond md:text-2xl font-semibold">
-          Vinay - Dr. Ram Kishor Agarwal <br />
-          Kanak - Mukesh Agarwal
+          Vinay - Dr. Ram Kishor Agrawal <br />
+          Kanak - Mukesh Agrawal
           <br />
-          Shikha - Munesh Agarwal
+          Shikha - Munesh Agrawal
           <br />
-          Savita - Arun Agarwal
+          Savita - Arun Agrawal
         </p>
 
         <h2 className="mt-4 text-center text-[24px] leading-tight text-[#8c1034] font-cormorant-upright  md:text-4xl lg:text-[60px] font-bold">
@@ -41,7 +41,7 @@ export default function Families() {
         <p className="text-center text-[18px] tracking-medium text-[#C99333] font-cormorant-garamond md:text-2xl font-semibold">
           Vineet - Ekta <br />
           Tarun - Swati <br />
-          Dipesh - Ridhima(Rinky) <br />
+          Dipesh - Ridhima <br />
           Dr. Devanshu - Deeksha <br />
           Namit, Dr. Rohan, Parth
         </p>

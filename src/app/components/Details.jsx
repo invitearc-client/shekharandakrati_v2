@@ -83,7 +83,7 @@ export default function Details({ from = "bottom", className = "", children }) {
           <span className="cookie-regular">Drx. Shekhar</span>
 
           <p className="text-[#546F2F] tracking-wider text-[15px] md:text-[20px] font-cormorant-garamond  font-semibold mt-2">
-            (Grand S/o Late Smt. Shyamwati Devi & Late Shri Jagdish Prasad Goyal ) <br/><br/> 
+            (Grand S/o Late Smt. Shyam wati Devi & Late Shri Jagdish Prasad Goyal ) <br/><br/> 
             (S/o Smt. Vineeta Goyal & Shri Praveen Kumar Goyal)
           </p>
 

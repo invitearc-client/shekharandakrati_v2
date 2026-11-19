@@ -83,6 +83,7 @@ export default function Details({ from = "bottom", className = "", children }) {
           <span className="cookie-regular">Drx. Shekhar</span>
 
           <p className="text-[#546F2F] tracking-wider text-[15px] md:text-[20px] font-cormorant-garamond  font-semibold mt-2">
+            (Grand S/o Late Smt. Shyamwati Devi & Late Shri Jagdish Prasad Goyal ) <br/><br/> 
             (S/o Smt. Vineeta Goyal & Shri Praveen Kumar Goyal)
           </p>
 
@@ -93,10 +94,11 @@ export default function Details({ from = "bottom", className = "", children }) {
           <span className="cookie-regular">Er. Akrati</span>
 
           <p className="text-[#546F2F] tracking-wider text-[15px] md:text-[20px] font-cormorant-garamond  font-semibold mt-2">
-            (D/o Smt. Reenu Agarwal & Shri. Mukesh Agarwal)
+           (Grand D/o Late Smt. Vimla Devi & Late Shri Girraj Kishore Agrawal (Ilaichi Wale)) <br/><br/>
+            (D/o Smt. Reenu Agrawal & Shri Mukesh Agrawal)
           </p>
         </h2>
-
+        
         <h2 className="relative z-10 flex flex-col items-center text-[#915e00] text-4xl md:text-4xl lg:text-[70px] mt-12">
           <span className="font-cormorant-upright font-bold">
             The Blessed Beginning

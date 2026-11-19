@@ -76,7 +76,7 @@ export default function Details({ from = "bottom", className = "", children }) {
         <p className="relative z-10 text-[#546F2F] tracking-wider text-[14px] md:text-[20px] mt-4 font-cormorant-garamond  font-semibold">
           With the heavenly blessings of
           <br />
-          Late Smt. Shyamwati & Late Shri Jagdish Prasad Goyal
+          Late Smt. Shyam wati Devi & Late Shri Jagdish Prasad Goyal
         </p>
 
         <h2 className="relative z-10 flex flex-col items-center text-[#C14405] text-5xl md:text-4xl lg:text-[90px] mt-12">

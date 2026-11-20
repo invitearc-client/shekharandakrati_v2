@@ -100,7 +100,7 @@ export default function Events() {
             5/32, Ashok Nagar Colony <br /> Goolar Road, Aligarh
           </p>
           <a
-            href="https://maps.app.goo.gl/tppD1YGMxnRQWjHXA"
+            href="https://maps.app.goo.gl/6XD3T5L8cz3NMt17A"
             className="text-black underline md:text-sm text-[16px]  font-cormorant-garamond"
             target="_blank"
           >

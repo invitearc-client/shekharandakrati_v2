@@ -41,7 +41,7 @@ export default function Families() {
         <p className="text-center text-[18px] tracking-medium text-[#C99333] font-cormorant-garamond md:text-2xl font-semibold">
           Vineet - Ekta <br />
           Tarun - Swati <br />
-          Dipesh - Ridhima <br />
+          Dipesh - Ridhima(Rinky) <br />
           Dr. Devanshu - Deeksha <br />
           Namit, Dr. Rohan, Parth
         </p>
